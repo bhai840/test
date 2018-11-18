@@ -1,0 +1,7 @@
+[
+  {
+    "id": "webhook",
+    "execute-command": "/var/www/html/test.sh",
+    "command-working-directory": "/var/www/html"
+  }
+]
